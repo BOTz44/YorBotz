@@ -1,178 +1,257 @@
+Module : https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz/file
+<p align="center">
+    <img src="https://telegra.ph/file/eaabc97cb81180be2c9a6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">KannaBOT - MD</h1>
+<p align="center">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+</p>
 
-
----
-
-<a href="https://visitor-badge.glitch.me/badge?page_id=RaaaGH/YorBotz"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=RaaaGH/YorBotz"></a>
-<a href="https://github.com/RaaaGH/YorBotz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/RaaaGH/YorBotz?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/RaaaGH/YorBotz?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/RaaaGH/YorBotz?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/RaaaGH/YorBotz?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/issues"><img title="Issues" src="https://img.shields.io/github/issues/RaaaGH/YorBotz?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/RaaaGH/YorBotz?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/sadteams/bot-md?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/RaaaGH/YorBotz/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/RaaaGH/YorBotz?label=PullRequest&color=red&style=flat-square"></a>
-
-
-```cmd
-Buka Console
-------------
-> npm i
-> npm i qrcode
-> install-pkg webp
-> install-pkg ffmpeg
--------------
-Click Run
-```
-## FOR OKTETO
-
-* Okteto [`Click Here`](https://okteto.com)
-
-```bash
-Login with your github
-Click Launch Dev Environment
-Choose your repo
-```
-
+<p align="center">
+ <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/LeonGantengz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zakuro-blue.svg?style=for-the-badge&logo=github"></a>
 
 ---------
-
-
+## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/6285608625102">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/leonvx._">
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:leonganz.kry@gmail.com">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
 ---------
 
+## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62895410472842) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285608625102) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ya4dpmdv) 
+---------
 
-## UNTUK PENGGUNA WINDOWS/VPS/RDP
+#### KELEBIHAN 🪄
+| Kelebihan | Check |
+|--------|--------|
+| **Fast Respon** |[✔️](https://github.com/ImYanXiao) |
+| **No Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Simple** |[✔️](https://github.com/ImYanXiao) |
+| **Button template** |[✔️](https://github.com/ImYanXiao) |
+| **Multi Device** |[✔️](https://github.com/ImYanXiao) |
+---------
+#### FITUR 🎀
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/ImYanXiao) |
+| **Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Game Rpg** |[✔️](https://github.com/ImYanXiao) |
+| **Nsfw** |[✔️](https://github.com/ImYanXiao) |
+| **Sticker** |[✔️](https://github.com/ImYanXiao) |
+| **Game** |[✔️](https://github.com/ImYanXiao) |
+| **Kerang Ajaib** |[✔️](https://github.com/ImYanXiao) |
+| **Quotes** |[✔️](https://github.com/ImYanXiao) |
+| **Anime** |[✔️](https://github.com/ImYanXiao) |
+| **Premium** |[✔️](https://github.com/ImYanXiao) |
+| **Tools** |[✔️](https://github.com/ImYanXiao) |
+| **Exec** |[✔️](https://github.com/ImYanXiao) |
+| **React** |[✔️](https://github.com/ImYanXiao) |
+---------
 
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+## `SETTING`
 
+- Owner Number [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/LeonGantengz/kannaxyui-multidevice/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
+---------
+
+## ```Heroku Buildpack```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
+
+| BuildPack | LINK |
+|--------|--------|
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
+
+## TERMUX USER
 ```bash
-git clone https://github.com/RaaaGH/YorBotz
-cd YorBotz
-npm i
-node .
+$ pkg upgrade && pkg update
+$ pkg install git -y
+$ pkg install nodejs -y
+$ pkg install ffmpeg -y
+$ pkg install imagemagick -y
+$ git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+$ cd Kanna-MultiDevice
+$ npm i 
 ```
-
-## UNTUK PENGGUNA TERMUX
-
-* Download Termux [`Klik Disini`](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk)
-* Download node_modules [`Klik Disini`](https://www.mediafire.com/file/peyj19jiz4hq5qt/node_modules.zip/file)
-
-```
-$ pkg update && upgrade -y
-$ apt update && upgrade -y
-$ pkg install ffmpeg
-$ pkg install nodejs-lts
-$ pkg install git
-$ git clone https://github.com/RaaaGH/YorBotz
-$ cd YorBotz
-$ npm i
+If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
+```bash
 $ node .
 ```
 
+#### If npm install failed, try using yarn instead of npm
+```bash
+$ pkg install yarn -y
+$ yarn install
+```
 ---------
 
+## TERMUX WITH UBUNTU
 
-## Arguments `node . [--options] [<session name>]` 
+```bash
+apt update && apt full-upgrade
+apt install wget curl git proot-distro
+proot-distro install ubuntu
+echo "proot-distro login ubuntu" > $PREFIX/bin/ubuntu
+ubuntu
+```
+---------
 
-### `--autocleartmp`
+[ INSTALLING REQUIRED PACKAGES ]
 
-Aktifkan untuk menghapus isi didalam folder tmp secara otomatis
-
-### `--session <nama file>`
-
-menggunakan session dari nama file yang berbeda, default `session.data.json`
-
-contoh nama file `raxcel.json` maka penggunaannya `node . --session 'raxcel'`
-
-### `--prefix <prefix>`
-
-* `prefixes` dipisahkan oleh masing-masing karakter
-Setel awalan
-
-### `--server`
-
-Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
-
-### `--db <json-server-url>`
-
-menggunakan db eksternal alih-alih db lokal, **disarankan** menggunakan mongodb
-
-contoh server dengan mongodb `mongodb+srv://<username>:<password>@name-of-your-db.thhce.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
-
-contoh server dengan repl `https://json-server.nurutomo.repl.co/`
-
-kode: `https://repl.it/@Nurutomo/json-server`
-
-`node . --db 'https://json-server.nurutomo.repl.co/'`
-
-server harus memiliki spesifikasi seperti ini
-
-#### GET
-
-```http
-GET /
-Accept: application/json
+```bash
+ubuntu
+apt update && apt full-upgrade
+apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
 ```
 
-#### POST
+---------
 
-```http
-POST /
-Content-Type: application/json
+[ INSTALLING NODEJS & KANNABOT-MD]
 
-{
- data: {}
-}
+```bash
+ubuntu
+curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+apt install -y nodejs gcc g++ make
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
+npm install
+npm update
 ```
 
-### `--big-qr`
+---------
 
-Jika qr unicode kecil tidak mendukung
+## FOR WINDOWS/VPS/RDP USER 💻
 
-### `--img`
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
-Aktifkan pemeriksa gambar melalui terminal
+```bash
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
+npm install
+npm update
+```
 
-### `--test`
+---------
 
-**Development** Testing Mode
+## Run 🏃
 
-### `--trace`
+```bash
+node .
+```
 
+---------
+
+## ```Arguments node . [--options] [<session name>]```
+
+## `--self`
+* Activate self mode (Ignores other)
+
+## `--pconly`
+* If that chat not from private bot, bot will ignore
+
+## `--gconly`
+* If that chat not from group, bot will ignore
+
+## `--swonly`
+* If that chat not from status, bot will ignore
+
+## `--prefix <prefixes>`
+* `prefixes` are seperated by each character
+Set prefix
+
+## `--server`
+* Used for [heroku](https://heroku.com/) or scan through website
+
+## `--restrict`
+* Enables restricted plugins (which can lead your number to be **banned** if used too often)
+* Group Administration `add, kick`
+
+## `--img`
+* Enable image inspector through terminal
+
+## `--autoread`
+* If enabled, all incoming messages will be marked as read
+
+## `--nyimak`
+* No bot, just print received messages and add users to database
+
+## `--test`
+* **Development** Testing Mode
+
+---------
+
+## ```How To Customise Message Display```
 ```js
-conn.logger.level = 'trace'
+// Syntax
+conn.sendButton(
+      jid, // jid of the user to send the message to
+      text, // text to send
+      foooter, // footer to send
+      buffer, // buffer to send (optional), if you want to send button image, location, etc
+      buttons, // buttons to send, example [['text1', 'id1'], ['text2', 'id2']]
+      quoted, // quoted message to send (optional)
+      options // options to send, example { asLocation: true }
+)
+
+// example 
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', null, [
+      ['Hello', 'hello'], ['Bye', 'bye']
+])
+// example button location
+conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/BochilGaming', 
+      [['Hello', 'hello'], ['Bye', 'bye']], 
+      null, { asLocation: true }
+)
 ```
+---------
 
-### `--debug`
+### 📮 S&K
+1. Jangan diperjual belikan Script ini
+2. Sebelum pakai jangan lupa kasih star
+3. Follow Github !
+4. Jangan salah gunakan script ini!
 
-```js
-conn.logger.level = 'debug'
-```
-#### Thanks To 
-**Allah SWT**,
+---------
 
-**Orang Tua**,
+### ❗ Note : Apikeynya Beli Sendiri Ya Guys😁
 
-**All Team Bot Discussion**,
+---------
 
-**Semua yang selalu mendukung**
+## ```Thanks to ✨```
+* [`Allah SWT`](https://github.com/ImYanXiao)
+* [`My parents`](https://github.com/ImYanXiao)
+* [`All Friends`](https://github.com/ImYanXiao)
+* [`All Contributors`](https://github.com/ImYanXiao)
+* [`All Creator Bot`](https://github.com/ImYanXiao)
+* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
+* [`Nurutomo`](https://github.com/nurutomi)
+* [`BochilGaming`](https://github.com/bochilgaming)
+* [`KannaChan`](https://github.com/kannachann)
+* [`LeonGanz`](https://github.com/LeonGantengz)
+ 
 
+## ```Recode By ✏️```
+[![Zakuro](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/ImYanXiao)
 
-##### Special Thanks to
-[![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo)
-[![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-
-###### Contributor
-[![Fokus ID](https://github.com/fokusdotid.png?size=100)](https://github.com/fokusdotid)
-[![Aniq](https://github.com/aniq12.png?size=100)](https://github.com/aniq12)
-[![Rasel Comel](https://github.com/raselcomel.png?size=100)](https://github.com/raselcomel)
-[![Aiinne](https://github.com/aiinne.png?size=100)](https://github.com/aiinne)
-[![Amirul Dev](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
-[![Amelia Lisa](https://github.com/Ameliascrf.png?size=100)](https://github.com/Ameliascrf)
-[![𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01)
-[![bot xtrehse](https://github.com/xtreshebot.png?size=100)](https://github.com/xtreshebot)
-[![Madexyz](https://github.com/Madexyz.png?size=100)](https://github.com/Madexyz)
-[![sadteams](https://github.com/sadteams.png?size=100)](https://github.com/sadteams)
-[![Warikrr](https://github.com/Warikrr.png?size=100)](https://github.com/Warikrr)
+## ```Contributor 🤝```
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
+* [`KannaChan`](https://github.com/kannachann)
+* [`Fahri Adison`](https://github.com/FahriAdison) 
